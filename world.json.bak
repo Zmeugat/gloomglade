@@ -1,0 +1,34 @@
+{
+  "name": "glumgleid",
+  "title": "Глава 1. Темная чаща",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Листы",
+      "type": "Actor",
+      "name": "listy",
+      "path": "packs/listy.db",
+      "system": "custom-system-builder",
+      "package": "world",
+      "entity": "Actor",
+      "private": false
+    }
+  ],
+  "system": "custom-system-builder",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "Gloomglade/%D1%84%D0%BE%D0%BD.jpg",
+  "coreVersion": "9.280",
+  "nextSession": null,
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.7.3"
+}

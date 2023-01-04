@@ -1,0 +1,7 @@
+{"name":"Монстры","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#eb0000","flags":{},"_id":"56ho4I93Fo9GL9Mm"}
+{"name":"Мировые персонажи","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#0037ff","flags":{},"_id":"htMyczmYVVbp1j7Q"}
+{"name":"Листы","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"lGQVBWWJpo5nI4Kh"}
+{"name":"Персонажи","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"s7UQmx9WR9CA17mc"}
+{"name":"Предметы","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#0df87e","flags":{},"_id":"sgvm4ziiNP8enkv2"}
+{"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"shhCq0b586y0sces"}
+{"name":"Места","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"uo8nnnQNyoLIWjii"}
